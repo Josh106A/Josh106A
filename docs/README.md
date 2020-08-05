@@ -187,7 +187,7 @@ In addition, balancing a ball instead of a cart would prove to be a much more ch
 
 [Leo Adberg](http://leo.adberg.com) is a senior EECS major. Leo's main focus is in software but in high school he participated in VEX and FRC robotics. Leo wrote most of the control code for RAWB.
 
-Josh Alexander is a junior EECS major. Josh also participated in VEX Robotics in high school. He mostly focused on designing the framework for the simulation of RAWB and manufacturing the hardware used.
+Josh Alexander is a junior EECS major. Josh also participated in VEX Robotics in high school. He mostly focused on writing the control code and helped with designing the framework for the simulation of RAWB and manufacturing the hardware used.
 
 [Rajiv Govindjee](http://ocf.io/rgovindjee) is a junior EECS major with a MechE minor. Rajiv worked on control design and overall system architecture as well as the design and manufacturing of hardware components.
 
